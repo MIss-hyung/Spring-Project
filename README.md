@@ -8,3 +8,8 @@
   
 3. openzeppelin install
   npm install -E zeppelin-solidity
+  
+4.D: (d 드라이브로 이동)
+
+5. truffle network error
+  truffle deploy --reset
